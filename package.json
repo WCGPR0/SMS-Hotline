@@ -1,0 +1,28 @@
+{
+  "name": "ubuntu",
+  "version": "10.0.4",
+  "description": "",
+  "main": "bhoy.js",
+  "dependencies": {
+    "forever": "~0.10.11",
+    "twilio": "~1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bhoy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/WCGPR0/SMS-Hotline.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/WCGPR0/SMS-Hotline/issues"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.14"
+  }
+}
